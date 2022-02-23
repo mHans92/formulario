@@ -1,0 +1,55 @@
+
+
+
+
+
+.formu {
+    
+    margin-left: 14em;
+    padding-right: 20em;
+    display: flex;
+    border-style: solid;
+    flex-direction: column;
+    align-content: flex-start;
+    justify-content: center;
+    align-items: flex-start;
+    width: 500px;
+    
+}
+
+.nombres {
+    width: 2px;
+    margin-left: 10px;
+}
+
+.caja {
+    margin-right: 9px;
+}
+
+.boton {
+    margin-left: 191px;
+    margin-bottom: 15px;
+    background-color: rgb(150, 47, 209);
+    color: rgb(6, 192, 192);
+    width: 7em;
+}
+
+.container {
+    display: flex;
+    border-style: solid;
+    flex-direction: column;
+    align-content: flex-start;
+    justify-content: center;
+    align-items: flex-start;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    height: 250px;
+    width: 400px;
+}
+
+.tresElements {
+    margin-bottom: 28px;
+    margin-left: 10em;
+   
+}
+
